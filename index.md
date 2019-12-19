@@ -1,2 +1,2 @@
-[about](about.html)
+[about](bio.md)
 ### some generative SVGs
