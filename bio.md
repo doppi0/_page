@@ -1,4 +1,0 @@
-
-Gleb Karpenko
-
-Minsk, Belarus
