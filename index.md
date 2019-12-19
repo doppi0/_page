@@ -1,4 +1,4 @@
-[about](about.md)
+[| about |](about.md)
 ### some generative SVGs
 
 
