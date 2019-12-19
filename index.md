@@ -1,2 +1,2 @@
-<a href="about.html">about</a>
+[about](about.html)
 ### some generative SVGs
