@@ -1,5 +1,5 @@
 [| about |](about.md)
-### some generative SVGs
+### FOO
 
 
-##### Copyright Karpenko Gleb
+##### BAR
